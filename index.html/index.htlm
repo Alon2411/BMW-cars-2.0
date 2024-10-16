@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modelos de BMW</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Modelos de BMW</h1>
+        <p>Descubre todos los modelos de coches de BMW, desde deportivos hasta eléctricos, con fotos y detalles impresionantes.</p>
+    </header>
+
+    <section class="models">
+        <div class="model">
+            <h2>Serie 1</h2>
+            <img src="https://www.bmw.es/content/dam/bmw/common/all-models/1-series/5-door/2021/navigation/bmw-1series-modelfinder.png" alt="BMW Serie 1">
+            <p>El BMW Serie 1 es el compacto premium perfecto para quienes buscan dinamismo y estilo.</p>
+        </div>
+
+        <div class="model">
+            <h2>Serie 3</h2>
+            <img src="https://www.bmw.es/content/dam/bmw/common/all-models/3-series/sedan/2021/navigation/bmw-3series-modelfinder.png" alt="BMW Serie 3">
+            <p>El BMW Serie 3, un icono de deportividad y eficiencia con lo último en tecnología.</p>
+        </div>
+
+        <div class="model">
+            <h2>X5</h2>
+            <img src="https://www.bmw.es/content/dam/bmw/common/all-models/x-series/x5/2021/navigation/bmw-x5-modelfinder.png" alt="BMW X5">
+            <p>El BMW X5 combina lujo, espacio y potencia en un SUV de alto rendimiento.</p>
+        </div>
+
+        <div class="model">
+            <h2>i8</h2>
+            <img src="https://www.bmw.es/content/dam/bmw/common/all-models/i-series/i8-coupe/2019/navigation/bmw-i8-modelfinder.png" alt="BMW i8">
+            <p>El BMW i8, un deportivo híbrido enchufable que redefine el futuro de la movilidad.</p>
+        </div>
+
+        <div class="model">
+            <h2>iX3</h2>
+            <img src="https://www.bmw.es/content/dam/bmw/common/all-models/x-series/ix3/2021/navigation/bmw-ix3-modelfinder.png" alt="BMW iX3">
+            <p>El BMW iX3 es un SUV eléctrico que ofrece sostenibilidad sin sacrificar el rendimiento.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2024 BMW Todos los derechos reservados | Página creada por [Tu Nombre]</p>
+    </footer>
+</body>
+</html>
